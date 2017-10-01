@@ -1,2 +1,2 @@
 # recursos
-Enlaces a recursos, libros, cursos etc discutidos
+Enlaces a recursos, libros, cursos etc discutidos.
